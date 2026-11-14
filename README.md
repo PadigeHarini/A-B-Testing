@@ -69,7 +69,7 @@ Python, pandas, NumPy, matplotlib, statsmodels (Jupyter / Google Colab)
 
 ## Repository Contents
 
-- `beginner_ab_test_project.ipynb`: full analysis notebook
+- `ab_test_project.ipynb`: full analysis notebook
 - `ab_test_project_presentation.pptx`: summary presentation (7 slides)
 
 ## How to Run
